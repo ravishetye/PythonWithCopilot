@@ -20,7 +20,7 @@ python src/main.py
 ```
 
 ## Running Tests
-To run the unit tests, use the following command:
+To run the unit tests, use the following command in the appropriate folder:
 
 ```bash
 python -m unittest discover -s tests
